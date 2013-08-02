@@ -23,3 +23,12 @@ While the #BirthdaySprint is a distributed event, there are a few in person loca
 * Time: 6:30pm - 9:30pm Pacific
 * Where: http://www.openstreetmap.org/?lat=37.76461&lon=-122.419431&zoom=18&layers=M
 * http://www.meetup.com/Bay-Area-OpenStreetMappers/events/130308822/
+
+## Salt Lake City
+
+_this is not a bona fide organized thing, but if you want to hack on OSM together we can hang out in my OSM Basement(tm)._
+
+* @mvexel's home / back yard
+* Date: August 10
+* Time: 10 - 4 ish
+* Where: ping @mvexel for details
