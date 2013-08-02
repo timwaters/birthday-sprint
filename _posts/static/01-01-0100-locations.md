@@ -26,9 +26,9 @@ While the #BirthdaySprint is a distributed event, there are a few in person loca
 
 ## Salt Lake City
 
-_this is not a bona fide organized thing, but if you want to hack on OSM together we can hang out in my OSM Basement(tm)._
+_this is not a bona fide organized thing, but if you want to hack on OSM together we can hang out in my OSM Basement™ or on the OSM Porch™._
 
-* @mvexel's home / back yard
+* @mvexel's home OSM Basement™ / Porch™
 * Date: August 10
 * Time: 10 - 4 ish
 * Where: ping @mvexel for details
