@@ -24,7 +24,7 @@ We'll have a drink at [The Standard](http://www.openstreetmap.org/?way=48112052)
 * Date: August 8, 2013
 * Time: 6:30pm - 9:30pm Pacific
 * Where: [http://www.openstreetmap.org/?node=418513657](http://www.openstreetmap.org/?node=418513657)
-* http://www.meetup.com/Bay-Area-OpenStreetMappers/events/130308822/
+* RSVP: [Bay Area OpenStreetMappers](http://www.meetup.com/Bay-Area-OpenStreetMappers/events/130308822/)
 
 ## Salt Lake City
 
