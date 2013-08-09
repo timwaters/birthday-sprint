@@ -447,6 +447,11 @@ Details: http://www.positioniseverything.net/easyclearing.html
 .clearfix { display:inline-block; }
 .centered { text-align:center; }
 
+.cake {
+  min-width: 460px;
+  clear: left;
+}
+
 /* Tablet Layout
 ------------------------------------------------------- */
 @media only screen and (max-width:770px) {
