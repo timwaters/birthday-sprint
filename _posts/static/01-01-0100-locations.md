@@ -7,6 +7,7 @@ title: Locations
 
 While the #BirthdaySprint is a distributed event, there are a few in person locations. 
 
+**For all locations: bring your computer.**
 
 ## Washington, DC
 
