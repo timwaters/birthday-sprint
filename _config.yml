@@ -3,7 +3,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://osmlab.github.io/birthday-sprint/'
+  siteurl: 'http://timwaters.github.io/birthday-sprint/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
